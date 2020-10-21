@@ -1,0 +1,13 @@
+git --version
+git init
+
+--------
+
+设置签名，区分不同开发人员身份
+
+git config --global user.name zhangsan
+git config --global user.email jory@21cn.com
+
+gitee 码云
+
+aaa
